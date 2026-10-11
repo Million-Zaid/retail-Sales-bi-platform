@@ -17,7 +17,7 @@ This project simulates a real-world BI engagement for a retail company. The pipe
 ```mermaid
 flowchart TD
     subgraph CLOUD_SOURCE["Cloud Source"]
-        A["Azure Blob Storage<br/>12 CSV files"]
+        A["Azure Blob Storage<br/>13 CSV files"]
     end
 
     subgraph SNOWFLAKE["Snowflake Cloud Data Warehouse"]
